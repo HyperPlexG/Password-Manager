@@ -1,0 +1,11 @@
+cffi==1.15.1
+cryptography==38.0.1
+csv-reader==1.2.0
+mysql-connector-python==8.0.31
+protobuf==3.20.1
+psycopg2==2.9.4
+pycparser==2.21
+pygame==2.1.2
+python-dotenv==0.21.0
+pywin32==305
+tk==0.1.0
